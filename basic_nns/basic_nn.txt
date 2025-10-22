@@ -1,0 +1,1 @@
+This file hold the code used to make a basic xor nn and a iris classifier nn. Made for my CS78 class.
